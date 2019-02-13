@@ -1,0 +1,24 @@
+{
+   "website_url":"https://sourceforge.net/projects/havoc-os/",
+   "news_url":"https://t.me/Havoc_OS",
+   "addons": [
+   {
+      "title":"GApps",
+      "summary":"Official Open GApps",
+      "url":"http://opengapps.org"
+   },
+   {
+      "title":"Magisk",
+      "summary":"Systemless Root Installer",
+      "url":"https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"
+   }
+   ],
+   "developer":"Brunowp8",
+   "developer_url":"https://t.me//brunowp8",
+   "forum_url":"https://forum.xda-developers.com/galaxy-s5/unified-development/rom-havoc-os-t3894305",
+   "build_date":"20190213-2106",
+   "url":"https://sourceforge.net/projects/havoc-os/files/kltechnduo/Havoc-OS-v2.2-20190213-kltechnduo-Official.zip/download",
+   "file_name":"Havoc-OS-v2.2-20190213-kltechnduo-Official.zip",
+   "file_size":387815735,
+   "md5":"6c3e11d85874923f96f86dd0ceea911e"
+}
