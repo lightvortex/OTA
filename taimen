@@ -1,0 +1,17 @@
+{
+"donate_url":"https:\/\/www.paypal.me\/ANUSHEK",
+"website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
+"news_url":"https:\/\/t.me\/Havoc_OS",
+"addons":[
+{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
+"developer": "slothdabski",
+"developer_url": "https:\/\/t.me\/slothdabski",
+"forum_url": "https:\/\/forum.xda-developers.com\/pixel-2-xl\/development\/pie-havoc-os-t3851780",
+"changelog": "https:\/\/del.dog\/tesewewona.coffeescript\",
+"filename":"Havoc-OS-v2.2-20190223-taimen-Official.zip",
+"build_date":"20190223-230635",
+"filesize":"937238003",
+"md5":"d780678fdafa0d4786bf348a5b0d62fe",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/taimen\/Havoc-OS-v2.2-20190223-taimen-Official.zip\/download",
+"error":true
+}
