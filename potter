@@ -1,4 +1,5 @@
 {
+"donate_url":"https:\/\/www.paypal.me\/vhermann",
 "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
@@ -8,10 +9,10 @@
 "developer_url": "https:\/\/t.me\/abhijit1998",
 "forum_url": "https:\/\/forum.xda-developers.com\/g5-plus\/development\/rom-havocos-9-0-0r10-t3857297",
 "changelog": "",
-"filename":"Havoc-OS-v2.2-20190217-potter-Official.zip",
-"build_date":"20190217-104011",
-"file_size":"599368288",
-"md5":"0187379e851316e2dddb15d45cb20838",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/potter\/Havoc-OS-v2.2-20190217-potter-Official.zip\/download",
+"filename":"Havoc-OS-v2.2-20190225-potter-Official.zip",
+"build_date":"20190225-222136",
+"file_size":"603519064",
+"md5":"58f2933e9f066e154233ad332254d2ba",
+"url":"https:\/\/master.dl.sourceforge.net\/project\/havoc-os\/potter\/Havoc-OS-v2.2-20190225-potter-Official.zip",
 "error":true
 }
