@@ -1,5 +1,5 @@
 {
-"donate_url":"https:\/\/www.paypal.me\/ANUSHEK", 
+"donate_url":"https:\/\/www.paypal.me\/vhermann", 
 "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/", 
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
@@ -13,6 +13,6 @@
 "build_date":"20190225-1800",
 "filesize":"567184883", 
 "md5":"e65793508cba7f7fddfac4aa47da7838",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/markw/\https://sourceforge.net/projects/havoc-os/files/markw/Havoc-OS-v2.2-20190225-markw-Official.zip/download",
+"url":"https:\/\/master.dl.sourceforge.net\/project\/havoc-os\/markw\/Havoc-OS-v2.2-20190225-markw-Official.zip",
 "error":true
 }
