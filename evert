@@ -8,11 +8,11 @@
 "developer": "Jose Santiago",
 "developer_url": "https:\/\/forum.xda-developers.com\/member.php?u=7887077",
 "forum_url": "https:\/\/forum.xda-developers.com\/g6-plus\/development\/rom-havoc-t3895300",
-"changelog": "",
-"filename":"Havoc-OS-v2.2-20190217-evert-Official.zip",
-"build_date":"20190217-0000",
-"filesize":"562036313",
-"md5":"8f00d69f17b2a4a997546bed374cc97c",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/evert\/Havoc-OS-v2.2-20190217-evert-Official.zip\/download",
+"changelog": "fix some the audio quality and camera focussing, remove device encryption",
+"filename":"Havoc-OS-v2.2-20190228-evert-Official.zip",
+"build_date":"20190228-0000",
+"filesize":"566038562",
+"md5":"28b96d4ec7c75332820b0207b7a1b160",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/evert\/Havoc-OS-v2.2-20190228-evert-Official.zip\/download",
 "error":true
 }
